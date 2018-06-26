@@ -3,16 +3,16 @@ url: https://connect-labs.github.io
 baseurl: /
 
 # Site settings
-title: ConnectLabs website
+title: ConnectLabs
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Brian Larry
   pic: 1
-  position: Lead Designer
+  position: Chief Executive Officer
   social:
     - title: twitter
       url: #
@@ -21,9 +21,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Anthony Ferre
   pic: 2
-  position: Lead Marketer
+  position: Chief Technology Officer
   social:
     - title: twitter
       url: #
@@ -32,9 +32,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Josh Christy
   pic: 3
-  position: Lead Developer
+  position: Chief Financial Officer
   social:
     - title: twitter
       url: #
@@ -58,8 +58,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 300 Northern Pacific Ave, Suite 101
+  - line: Fargo,ND,58102
 
 # Build settings
 markdown: kramdown
