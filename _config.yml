@@ -10,7 +10,7 @@ description: "meta description"
 # Team names, titles and social links
 people:
 - name: Brian Larry
-  pic: 1
+  pic: 2
   position: Chief Executive Officer
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: Josh Christy
-  pic: 3
+  pic: 2
   position: Chief Financial Officer
   social:
     - title: twitter
