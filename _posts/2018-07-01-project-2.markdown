@@ -1,0 +1,14 @@
+---
+title: title project
+subtitle: category or type of project
+layout: default
+modal-id: 1
+date: 2018-06-25
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: June 2018
+client: someone
+category: digital signage or something
+description: blablablablablabla
+---
