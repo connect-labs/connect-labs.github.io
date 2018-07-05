@@ -12,12 +12,13 @@ intro : this is the intro message
 services:
 - type: make some cool stuff
   description: pretty explainatory
+  icon: fa-shopping-cart
 - type: make more cool stuff
   description: pretty explainatory
+  icon: fa-shopping-cart
 - type: make even more cool stuff
   description: pretty explainatory
-- type: make always more stuff
-  description: pretty explainatory
+  icon: fa-shopping-cart
 
 # Team names, titles and social links
 people:
