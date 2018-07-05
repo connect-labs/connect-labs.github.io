@@ -8,6 +8,17 @@ email: brian@connectlabs.io
 description: "meta description"
 intro : this is the intro message
 
+# Services offered
+services:
+- type: make some cool stuff
+  description: pretty explainatory
+- type: make more cool stuff
+  description: pretty explainatory
+- type: make even more cool stuff
+  description: pretty explainatory
+- type: make always more stuff
+  description: pretty explainatory
+
 # Team names, titles and social links
 people:
 - name: Brian Larry
