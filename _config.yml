@@ -23,12 +23,15 @@ services:
 # Story lines
 events:
   - date: January 2017
+    image: 1.jpg
     title: The start
     description: everything started here
   - date: March 2017
+    image: 2.jpg
     title: It continued
     description: even more stuff happened
   - date: December 2017
+    image: 3.jpg
     title: It progressed
     description: stuff continued to happened
 
