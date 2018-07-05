@@ -15,7 +15,7 @@ services:
   icon: fa-shopping-cart
 - type: make more cool stuff
   description: pretty explainatory
-  icon: fa-meetup
+  icon: fa-barcode
 - type: make even more cool stuff
   description: pretty explainatory
   icon: fa-bell
