@@ -15,10 +15,10 @@ services:
   icon: fa-shopping-cart
 - type: make more cool stuff
   description: pretty explainatory
-  icon: fa-shopping-cart
+  icon: fa-bullhorn
 - type: make even more cool stuff
   description: pretty explainatory
-  icon: fa-shopping-cart
+  icon: fa-bell
 
 # Team names, titles and social links
 people:
