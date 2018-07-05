@@ -11,8 +11,14 @@
                 <div class="col-lg-12">
                     <ul class="timeline">
                         {% for event in site.events %}
-                        <li>
-                        <!-- <li class="timeline-inverted"> -->
+                        {% capture modulo %}
+                          {{ forloop.index | mod:2 }}
+                        {% endcapture %}
+                        {% if modulo == '0' %}
+                          <li>
+                        {% else %}
+                          <li class="timeline-inverted">
+                        {% endif %}
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/{{ event.image }}" alt="">
                             </div>
