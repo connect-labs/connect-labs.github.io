@@ -10,5 +10,5 @@ alt: image-alt
 project-date: July 2018
 client: someone
 category: digital signage or something
-description:Interactive 
+description: Interactive 
 ---
