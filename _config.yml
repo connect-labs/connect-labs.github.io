@@ -6,6 +6,7 @@ baseurl: /
 title: ConnectLabs
 email: brian@connectlabs.io
 description: "meta description"
+intro : this is the intro message
 
 # Team names, titles and social links
 people:
