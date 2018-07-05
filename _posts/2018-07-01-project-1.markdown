@@ -1,6 +1,6 @@
 ---
 title: title project
-subtitle: category or type of project
+subtitle: test image background
 layout: default
 modal-id: 1
 date: 2018-06-25
