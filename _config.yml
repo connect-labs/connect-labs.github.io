@@ -1,17 +1,14 @@
+# Site Settings
 url: https://connect-labs.github.io
 baseurl: /
-
-# Site settings
 title: ConnectLabs
 email: brian@connectlabs.io
 description: "meta description"
-intro: this is the intro message
-portfolio-description: we are doing some stuff
-team-intro: we are cool blablabla 
-team-description: We do what we do because can. Try and stop us.
-contact-description: contact us to tell us some stuff
 
-# Services offered
+# Welcome Section
+intro: this is the intro message
+
+# Services Section
 services:
 - type: make some cool stuff
   description: pretty explainatory
@@ -23,7 +20,7 @@ services:
   description: pretty explainatory
   icon: fa-bell
 
-# Story lines
+# Story Section
 events:
   - date: January 2017
     image: 1.jpg
@@ -38,7 +35,8 @@ events:
     title: It progressed
     description: stuff continued to happened
 
-# Projects
+# Projects Section
+portfolio-description: we are doing some stuff
 projects:
   - title: project 1
     subtitle: test image background
@@ -66,6 +64,8 @@ projects:
     description: blablablablablabla
 
 # Team members
+team-intro: we are cool blablabla
+team-description: We do what we do because can. Try and stop us.
 people:
 - name: Brian Larry
   pic: 2
@@ -108,8 +108,11 @@ partners:
     image: envato.jpg
   - site: https://www.apple.com
     image: envato.jpg
+    
+# Contact Section
+contact-description: contact us to tell us some stuff
 
-# Social networks
+# Footer Social Networks
 social:
   - title: twitter
     url: http://twitter.com
