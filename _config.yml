@@ -47,7 +47,6 @@ people:
       url: #
     - title: stack-overflow
       url: #
-
 - name: Anthony Ferre
   pic: 2
   position: Chief Technology Officer
@@ -58,7 +57,6 @@ people:
       url: #
     - title: linkedin
       url: #
-
 - name: Josh Christy
   pic: 2
   position: Chief Financial Officer
@@ -70,7 +68,7 @@ people:
     - title: google-plus
       url: #
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks
 social:
   - title: twitter
     url: http://twitter.com
@@ -85,7 +83,7 @@ social:
   - title: instagram
     url: https://www.instagram.com
 
-# Postal address
+# Address
 address:
   - line: 300 Northern Pacific Ave, Suite 101
   - line: Fargo,ND,58102
