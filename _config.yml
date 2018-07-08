@@ -1,3 +1,4 @@
+# Site Structure
 url: https://connect-labs.github.io
 baseurl: /
 
@@ -37,6 +38,20 @@ events:
     image: 3.jpg
     title: It progressed
     description: stuff continued to happened
+
+# Projects
+projects:
+  - title: project 1
+    subtitle: test image background
+    modal-id: 1
+    img: cl-display.jpg
+    thumbnail: dreams-thumbnail.png
+    alt: image-alt
+    project-date: June 2018
+    client: someone
+    client-site: https://www.apple.com
+    category: digital signage or something
+    description: blablablablablabla
 
 # Team members
 people:
