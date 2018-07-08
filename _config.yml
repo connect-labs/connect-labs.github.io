@@ -9,6 +9,7 @@ intro: this is the intro message
 portfolio-description: we are doing some stuff
 team-intro: we are cool blablabla 
 team-description: We do what we do because can. Try and stop us.
+contact-description: contact us to tell us some stuff
 
 # Services offered
 services:
