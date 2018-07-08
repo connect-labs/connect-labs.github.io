@@ -52,7 +52,7 @@ projects:
     client-site: https://www.apple.com
     type: digital signage or something
     description: blablablablablabla
-- title: project 2
+  - title: project 2
     subtitle: test image background
     modal-id: 2
     type-content: video
