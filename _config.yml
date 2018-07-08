@@ -4,11 +4,13 @@ baseurl: /
 title: ConnectLabs
 email: brian@connectlabs.io
 description: "meta description"
+header-image: header-bg.jpg
 
 # Welcome Section
 intro: this is the intro message
 
 # Services Section
+# NOTE : Use icons from the web application section of : https://fontawesome.com/v4.7.0/icons/ 
 services:
 - type: make some cool stuff
   description: pretty explainatory
@@ -21,6 +23,7 @@ services:
   icon: fa-bell
 
 # Story Section
+# NOTE : Store new image in the directory : img/about 
 events:
   - date: January 2017
     image: 1.jpg
@@ -36,6 +39,7 @@ events:
     description: stuff continued to happened
 
 # Projects Section
+# NOTE : Store new image in the directory : img/portfolio
 portfolio-description: we are doing some stuff
 projects:
   - title: project 1
@@ -64,6 +68,7 @@ projects:
     description: blablablablablabla
 
 # Team members
+# NOTE : Store new image in the directory : img/team
 team-intro: we are cool blablabla
 team-description: We do what we do because can. Try and stop us.
 people:
@@ -99,6 +104,7 @@ people:
       url: #
 
 # partner info
+# NOTE : Store new image in the directory : img/logos
 partners:
   - site: https://www.apple.com
     image: envato.jpg
@@ -111,6 +117,7 @@ partners:
     
 # Contact Section
 contact-description: contact us to tell us some stuff
+background-image: map-image.png
 
 # Footer Social Networks
 social:
