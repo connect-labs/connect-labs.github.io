@@ -14,7 +14,7 @@
                         {% capture modulo %}
                           {{ forloop.index | modulo:2 }}
                         {% endcapture %}
-                        {% if modulo == 0 %}
+                        {% if modulo == '0' %}
                           <li>
                         {% else %}
                           <li class="timeline-inverted">
@@ -24,7 +24,7 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>{{ modulo }}{{ event.date }}</h4>
+                                    <h4>{{ event.date }}</h4>
                                     <h4 class="subheading">{{ event.title }}</h4>
                                 </div>
                                 <div class="timeline-body">
