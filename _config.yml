@@ -43,7 +43,7 @@ projects:
   - title: project 1
     subtitle: test image background
     modal-id: 1
-    type-content: image
+    content-type: image
     content: cl-display.jpg
     thumbnail: dreams-thumbnail.png
     alt: image-alt
@@ -55,7 +55,7 @@ projects:
   - title: project 2
     subtitle: test image background
     modal-id: 2
-    type-content: video
+    content-type: video
     content: https://www.youtube.com/embed/tgbNymZ7vqY
     thumbnail: dreams-thumbnail.png
     alt: image-alt
