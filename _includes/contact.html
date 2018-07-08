@@ -6,32 +6,13 @@
                     <h3 class="section-subheading text-muted">{{ site.contact-description }}</h3>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <form action="https://formspree.io/{{ site.email }}" method="POST">
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="form-group">
-                                    <input type="text" name="name" class="form-control" placeholder="Your Name *" required>
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" name="email" class="form-control" placeholder="Your Email *" required>
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="form-group">
-                                    <textarea name="message" class="form-control" placeholder="Your Message *" id="message" required></textarea>
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="col-lg-12 text-center">
-                                <button type="submit" class="btn btn-xl">Send Message</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
+        <form method="POST" action="https://formspree.io/anthony@connectlabs.io">
+                <input name="email" placeholder="Your email" type="email">
+                <input name="name" placeholder="Enter your name" type="name">
+                <input name="phone" placeholder="Enter your phone" type="phone">
+                <textarea name="message" placeholder="Your message"></textarea>
+                <button type="submit">Send</button>
+        </form>
+            
         </div>
     </section>
