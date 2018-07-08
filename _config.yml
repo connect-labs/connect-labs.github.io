@@ -70,6 +70,15 @@ people:
     - title: google-plus
       url: #
 
+# partner info
+partners:
+  - site: https://www.apple.com
+    image: envato.jpg
+  - site: https://www.apple.com
+    image: envato.jpg
+  - site: https://www.apple.com
+    image: envato.jpg
+
 # Social networks
 social:
   - title: twitter
