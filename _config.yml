@@ -117,6 +117,7 @@ partners:
     image: envato.jpg
     
 # Contact Section
+# NOTE : Store new image in the directory : /img
 contact-description: contact us to tell us some stuff
 background-image: map-image.png
 
