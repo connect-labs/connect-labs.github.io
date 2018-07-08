@@ -1,4 +1,3 @@
-# Site Structure
 url: https://connect-labs.github.io
 baseurl: /
 
@@ -51,7 +50,7 @@ projects:
     project-date: June 2018
     client: someone
     client-site: https://www.apple.com
-    category: digital signage or something
+    type: digital signage or something
     description: blablablablablabla
 - title: project 2
     subtitle: test image background
@@ -63,7 +62,7 @@ projects:
     project-date: June 2018
     client: someone
     client-site: https://www.apple.com
-    category: digital signage or something
+    type: digital signage or something
     description: blablablablablabla
 
 # Team members
