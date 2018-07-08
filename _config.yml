@@ -78,6 +78,8 @@ partners:
     image: envato.jpg
   - site: https://www.apple.com
     image: envato.jpg
+  - site: https://www.apple.com
+    image: envato.jpg
 
 # Social networks
 social:
