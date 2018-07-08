@@ -14,13 +14,13 @@ intro: this is the intro message
 # NOTE : Use icons from the web application section of : https://fontawesome.com/v4.7.0/icons/ 
 services:
 - type: make some cool stuff
-  description: pretty explainatory
+  description: pretty explanatory
   icon: fa-shopping-cart
 - type: make more cool stuff
-  description: pretty explainatory
+  description: pretty explanatory
   icon: fa-barcode
 - type: make even more cool stuff
-  description: pretty explainatory
+  description: pretty explanatory
   icon: fa-bell
 
 # Story Section
