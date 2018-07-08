@@ -44,13 +44,26 @@ projects:
   - title: project 1
     subtitle: test image background
     modal-id: 1
-    img: cl-display.jpg
+    type-content: image
+    content: cl-display.jpg
     thumbnail: dreams-thumbnail.png
     alt: image-alt
     project-date: June 2018
     client: someone
     client-site: https://www.apple.com
-    category: digital signage or something
+    service: digital signage or something
+    description: blablablablablabla
+- title: project 2
+    subtitle: test image background
+    modal-id: 2
+    type-content: video
+    content: https://www.youtube.com/embed/tgbNymZ7vqY
+    thumbnail: dreams-thumbnail.png
+    alt: image-alt
+    project-date: June 2018
+    client: someone
+    client-site: https://www.apple.com
+    service: digital signage or something
     description: blablablablablabla
 
 # Team members
