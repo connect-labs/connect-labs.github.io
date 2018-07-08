@@ -51,7 +51,7 @@ projects:
     project-date: June 2018
     client: someone
     client-site: https://www.apple.com
-    service: digital signage or something
+    category: digital signage or something
     description: blablablablablabla
 - title: project 2
     subtitle: test image background
@@ -63,7 +63,7 @@ projects:
     project-date: June 2018
     client: someone
     client-site: https://www.apple.com
-    service: digital signage or something
+    category: digital signage or something
     description: blablablablablabla
 
 # Team members
