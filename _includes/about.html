@@ -14,12 +14,10 @@
                         {% capture modulo %}
                           {{ forloop.index | modulo:2 }}
                         {% endcapture %}
-                        {% if modulo == '0' %}
+                        {% if modulo == 0 %}
                           <li>
-                              <p>{{ modulo }}</p>
                         {% else %}
                           <li class="timeline-inverted">
-                              <p>{{ modulo }}</p>
                         {% endif %}
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/{{ event.image }}" alt="">
