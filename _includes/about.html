@@ -14,7 +14,7 @@
                         {% capture modulo %}
                           {{ forloop.index | modulo:2 }}
                         {% endcapture %}
-                        {% if modulo == '0' %}
+                        {% if {{ forloop.index | modulo:2 }} %}
                           <li>
                         {% else %}
                           <li class="timeline-inverted">
