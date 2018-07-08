@@ -16,15 +16,17 @@
                         {% endcapture %}
                         {% if modulo == '0' %}
                           <li>
+                              <p>{{ modulo }}</p>
                         {% else %}
                           <li class="timeline-inverted">
+                              <p>{{ modulo }}</p>
                         {% endif %}
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/{{ event.image }}" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>{{ event.date }}</h4>
+                                    <h4>{{ modulo }}{{ event.date }}</h4>
                                     <h4 class="subheading">{{ event.title }}</h4>
                                 </div>
                                 <div class="timeline-body">
