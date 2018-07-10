@@ -3,7 +3,7 @@
 url: https://connect-labs.github.io
 baseurl: /
 title: ConnectLabs
-email: anthony@connectlabs.io
+email: brian@connectlabs.io
 description: "meta description"
 header-image: header-bg.jpg
 
@@ -13,7 +13,7 @@ intro: Interactive Digital Signage
 # Services Section
 # NOTE : Use icons from the web application section of : https://fontawesome.com/v4.7.0/icons/ 
 services:
-- type: make some cool stuff
+- type: FIND YOUR AUDIENCE PROGRAMMATIC VIDEO IMPRESSIONS DELIVERED TO IN-MARKET CONSUMERS
   description: pretty explanatory
   icon: fa-shopping-cart
 - type: make more cool stuff
