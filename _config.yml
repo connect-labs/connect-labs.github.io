@@ -8,18 +8,18 @@ description: "meta description"
 header-image: header-bg.jpg
 
 # Welcome Section
-intro: Interactive Digital Signage 
+intro:Premium Interactive Video Advertising In your Favorite Local Shopping Destination  
 
 # Services Section
 # NOTE : Use icons from the web application section of : https://fontawesome.com/v4.7.0/icons/ 
 services:
-- type: FIND YOUR AUDIENCE PROGRAMMATIC VIDEO IMPRESSIONS DELIVERED TO IN-MARKET CONSUMERS
+- type: ATTRIBUTION
   description: pretty explanatory
   icon: fa-shopping-cart
-- type: make more cool stuff
+- type: ADDRESSABILITY
   description: pretty explanatory
   icon: fa-barcode
-- type: make even more cool stuff
+- type: AMPLIFICATION
   description: pretty explanatory
   icon: fa-bell
 
