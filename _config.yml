@@ -14,7 +14,7 @@ intro: Premium Interactive Video Advertising In Your Favorite Local Shopping Des
 # NOTE : Use icons from the web application section of : https://fontawesome.com/v4.7.0/icons/ 
 services:
 - type: ATTRIBUTION
-  description: pretty explanatory
+  description: Utilize mobile location data to identify when your audience is in the mall, deliver targeted impressions & maximize efficiencies
   icon: fa-shopping-cart
 - type: ADDRESSABILITY
   description: pretty explanatory
