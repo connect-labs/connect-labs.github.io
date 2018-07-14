@@ -14,13 +14,13 @@ intro: Premium Interactive Video Advertising In Your Favorite Local Shopping Des
 # NOTE : Use icons from the web application section of : https://fontawesome.com/v4.7.0/icons/ 
 services:
 - type: ATTRIBUTION
-  description: Utilize mobile location data to identify when your audience is in the mall, deliver targeted impressions & maximize efficiencies
+  description: Evaluate impact of ad exposure on consumer behavior through foot traffic measurement & brand studies
   icon: fa-shopping-cart
 - type: ADDRESSABILITY
-  description: pretty explanatory
+  description: Utilize mobile location data to identify when your audience is in the mall, deliver targeted impressions & maximize efficiencies
   icon: fa-barcode
 - type: AMPLIFICATION
-  description: pretty explanatory
+  description: Reinforce your message at additional touchpoints along the consumer journey through 1x1 mobile engagements
   icon: fa-bell
 
 # Story Section
