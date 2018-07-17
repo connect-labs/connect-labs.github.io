@@ -59,7 +59,7 @@ projects:
     subtitle: test image background
     modal-id: 2
     content-type: video
-    content: https://www.youtube.com/watch?v=Z5j7dPEHtrM&feature=youtu.be
+    content: https://www.youtube.com/embed/Z5j7dPEHtrM
     thumbnail: dreams-thumbnail.png
     alt: image-alt
     project-date: June 2018
