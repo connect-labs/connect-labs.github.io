@@ -41,6 +41,7 @@ events:
 
 # Projects Section
 # NOTE : Store new image in the directory : /img/portfolio
+#        video must be added as "https://www.youtube.com/embed/VIDEO_ID" where VIDEO_ID is copied from the original video URL
 portfolio-description: we are doing some stuff
 projects:
   - title: project 1
